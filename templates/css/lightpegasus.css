@@ -1,0 +1,107 @@
+body {
+	background-color: #F0F0F0;
+}
+.lp-core {
+	background-color: #FFFFFF;
+	padding: 1.4em;
+	padding-left: 5em;
+	padding-right: 5em;
+	box-shadow: .2em 0 .5em 0, -.2em 0 .5em 0;
+}
+h1.lp-title {
+	border-top: .5em;
+	font-family: 'Arvo', serif;
+	font-size: 5em;
+	font-style: italic;
+	color: #606060;
+	font-weight: lighter;
+	margin-top: .5em;
+	margin-bottom: .8em;
+}
+.lp-section {
+	color: #333366;
+	font-weight: bold;
+	font-style: normal;
+}
+h2, h3, h4, h5, h6 {
+	font-family: 'Ubuntu', sans-serif;
+}
+h2, h3 {
+	color: #B6571D;
+}
+h2.lp-blog-title {
+	margin: 0;
+}
+h5.lp-blog-info {
+	color: #666666;
+}
+.lp-admin-button-bar {
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 1.2em;
+	padding-bottom: 1em;
+}
+
+.lp-admin-button-bar ul {
+
+}
+
+.lp-button {
+	display: inline;
+	padding: 5px;
+	margin: 0;
+	border-style: solid;
+	border-radius: 5px;
+	border-color: black;
+	border-width: 1px;
+	background-color: #EEEEEE;
+}
+
+.lp-button:hover {
+	background-color: #CCCCCC;
+}
+
+.lp-blog-entry {
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 1.2em;
+}
+.lp-nav {
+	font-family: 'Ubuntu', sans-serif;
+}
+.lp-nav ul {
+	margin-bottom: 2em;
+}
+.lp-nav-header {
+	margin-bottom: .2em;
+}
+.lp-sections li {
+	font-size: 1.5em;
+}
+.lp-blog-entry ul {
+	list-style-type: none;
+}
+ul
+{
+	list-style-type: none;
+	padding: 0px;
+	margin: 0px;
+}
+ul.lp-blog-labels {
+	font-size: 1em;
+	padding-bottom: 2em;
+}
+ul.lp-blog-labels li {
+	display: inline;
+}
+
+.lp-post-tags li {
+	display: inline;
+}
+.lp-post-tags li.tag-rare {
+	font-size: .8em;
+}
+.lp-post-tags li.tag-uncommon {
+	font-size: 1.1em;
+}
+.lp-post-tags li.tag-common {
+	font-size: 1.5em;
+}
