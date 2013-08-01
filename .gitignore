@@ -1,0 +1,7 @@
+# Compiled Sources
+
+*.a
+
+# Packages imported via go get ...
+
+src/github.com/knieriem
