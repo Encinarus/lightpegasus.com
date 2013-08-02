@@ -1,6 +1,7 @@
 # Compiled Sources
 
 *.a
+bin/
 
 # Packages imported via go get ...
 
